@@ -1,6 +1,6 @@
 {
   "name": "@ds/timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Little CLI Tool to record times",
   "main": "index.js",
   "bin": {
@@ -10,8 +10,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DSigmund/timer.git"
+  },
+  "author": "Dominik Sigmund <dominik.sigmund@webdad.eu>",
+  "license": "Unlicense",
   "dependencies": {
     "moment": "^2.24.0"
   }
