@@ -4,7 +4,7 @@ This is a very simple Time-Tracker that works from the Command-Line.
 
 ## Installation
 
-`npm install -g @sigmundd/timer`
+`npm install -g my-timer`
 
 ## Configuration
 

@@ -1,5 +1,5 @@
 {
-  "name": "@sigmundd/timer",
+  "name": "my-timer",
   "version": "1.0.1",
   "description": "Little CLI Tool to record times",
   "main": "index.js",
