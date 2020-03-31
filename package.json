@@ -1,0 +1,18 @@
+{
+  "name": "@ds/timer",
+  "version": "1.0.0",
+  "description": "Little CLI Tool to record times",
+  "main": "index.js",
+  "bin": {
+    "timer": "./index.js",
+    "timer-calc": "./calc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}

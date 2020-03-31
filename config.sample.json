@@ -1,0 +1,5 @@
+{
+  "file": "/path/to/save/file.csv",
+  "results":"/path/to/save/results.csv",
+  "myName": "Show in HTML"
+}
